@@ -1,6 +1,8 @@
 # Progress-Bar-Chrome-Extension
 Source code of Progress Bar extension on chrome.
 
+***v1.1***
+
 ## Installation 
 *This extension works on Google Chrome or Chromium-based browsers only.*
 
