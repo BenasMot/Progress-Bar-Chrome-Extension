@@ -6,7 +6,7 @@ Source code of Progress Bar extension on chrome.
 
 1. Navigate to ***chrome://extensions/*** on your browser.
 2. Turn on the developer mode.
-3. Drag and drop the extention folder into the extensions list or press on *Load unpacked*.
+3. Drag and drop the extension folder into the extensions list or press on *Load unpacked*.
 
 ## Using the extension
 
